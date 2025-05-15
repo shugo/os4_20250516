@@ -37,7 +37,7 @@ Network Applied Communication Laboratory Ltd.
 
 ## 音節文字
 
-* ひとつひとつの文字が音節(母音と子音の組合せからなる単位)を表す文字体系
+* ひとつひとつの文字が音節(母音と子音の組合せからなる)を表す文字体系
 
 ## ハングル字母
 
@@ -77,7 +77,8 @@ Network Applied Communication Laboratory Ltd.
 
 ## Textbringer上での入力
 
-* 入力メソッドの実装
+* 組み込みの入力メソッドを提供
+  * C-u C-\ hangul RET
 
 ## 2-Set Korean
 
