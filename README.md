@@ -1,7 +1,7 @@
 # RubyKaigi 2025のLTで時間切れになった話
 
-Shugo Maeda  
-Network Applied Communication Laboratory Ltd.
+前田修吾  
+株式会社ネットワーク応用通信研究所
 
 ## RubyKaigi 2025に行ってきました
 
