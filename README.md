@@ -24,6 +24,7 @@ Network Applied Communication Laboratory Ltd.
 
 * https://note.com/kkd/n/n9edb3418805e
 
+> 5分だから失敗しても大した事ない
 > 自分はこの5分、全力で情熱を出し切っただろうか？
 
 ## ハングル
